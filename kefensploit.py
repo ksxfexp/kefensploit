@@ -14,7 +14,7 @@ webbrowser.open('https://www.instagram.com/kemaaalwz/')
 time.sleep(2)
 
 f = Figlet(font='roman')
-print(f.renderText('kemalwz'))
+print(f.renderText('ksxfex'))
 time.sleep(1)
 
 print("sınırsız yazı yazmak için 01 ")
