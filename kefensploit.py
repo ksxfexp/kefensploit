@@ -9,7 +9,7 @@ import hashlib
 
 
 time.sleep(2)
-webbrowser.open('https://www.instagram.com/kemaaalwz/')
+webbrowser.open('https://www.instagram.com/kfsexp/')
 
 time.sleep(2)
 
