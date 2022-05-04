@@ -7,10 +7,6 @@ import string
 from random import *
 import hashlib
 
-
-time.sleep(2)
-webbrowser.open('https://www.instagram.com/kfsexp/')
-
 time.sleep(2)
 
 f = Figlet(font='roman')
